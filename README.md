@@ -121,7 +121,3 @@ The GPIO pins are configured as follows:
 ## Acknowledgments
 
 This project was developed as part of our thesis and would not have been possible without the guidance of our mentors and the support of our institution.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
