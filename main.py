@@ -285,8 +285,8 @@ def resetAngle():
     servo4.stop()
 
 # YOLOv5 Model Paths
-modelPathA = "/datasets/A.pt"
-modelPathB = "/datasets/B.pt"
+modelPathA = "datasets/A.pt"
+modelPathB = "datasets/B.pt"
 
 try:
     model_a = torch.hub.load('ultralytics/yolov5', 'custom', path=modelPathA)
